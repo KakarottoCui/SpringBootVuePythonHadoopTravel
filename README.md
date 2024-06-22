@@ -16,7 +16,7 @@
 
 技术介绍：
 
-后端：Java语言、Spring Boot框架、MuSQL数据库、maven依赖管理等；
+后端：Java语言、Spring Boot框架、MySQL数据库、maven依赖管理等；
 
 前端：Vue、Element ui等；
 
